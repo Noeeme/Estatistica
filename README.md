@@ -6,9 +6,9 @@
 ## Etapas:
 ### Estatística com Python: frequências e medidas
 - Entender estatística e os números que se lida
-- Descubrir a diferença entre média, mediana e moda na prática
+- Descobrir a diferença entre média, mediana e moda na prática
 - Aprender os tipos de dados e classificá-los
-- Saiber o que é a distribuição de frequência
+- Saber o que é a distribuição de frequência
 - Conhecer a variância e o desvio padrão
 
 
